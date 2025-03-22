@@ -6,9 +6,13 @@
 
    ![image](https://github.com/user-attachments/assets/f5b6396d-33b6-4536-be4a-0bc1cfed2f1b)
 
-3. **Скриншот окна "Обозреватель тестов" с результатами выполнения всех тестов:**
+2. **Скриншот окна "Обозреватель тестов" с результатами выполнения всех тестов:**
 
   ![image](https://github.com/user-attachments/assets/7210e0f6-a6f5-4264-8c6a-5d4e08f9b3b8)
+  
+3.**Скриншот окна "BankAccountTests.cs" с некоторыми тестами Credit:** 
+
+![image](https://github.com/user-attachments/assets/a9fc182e-800d-435d-b1dc-9102201c08cb)
 
 ## Результаты тестирования
 
